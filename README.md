@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 ## NAME : DHANUSHA K
-# REG NO: 212223040034
-# Date :25/10/25
+## REG NO: 212223040034
+## Date :25/10/25
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -55,16 +55,20 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 # Original Image :
 <img width="611" height="608" alt="image" src="https://github.com/user-attachments/assets/9297d3c5-8c73-4d89-bb24-49ed432fcdf4" />
+
 # Prompt :
 A stunning sunset over a tropical landscape with three tall coconut palm trees silhouetted against a vibrant sky. The sun is a bright orange orb near the top center, casting an intense, warm glow on the smoky, orange and pink clouds. The foreground features lush, dark green foliage and the water of a river or backwaters reflecting the sky's light. Cinematic lighting, high detail, golden hour, deep rich colors.
+
 # AI Generated Image:
 <img width="569" height="556" alt="image" src="https://github.com/user-attachments/assets/6989aad5-1809-4cf3-96c8-288c36132629" />
 
 # Comparison:
 That's a great approach! Here is the very short, complimentary paragraph comparing the AI image to the detailed prompt:
 The AI-generated image achieved exceptional fidelity to the prompt's vision. It flawlessly rendered the silhouetted palm trees against the vibrant, golden-hour sky with the bright, central sun and captured the lush foreground foliage and reflective water in stunning, cinematic detail.
+
 # Original Image :
 <img width="684" height="850" alt="image" src="https://github.com/user-attachments/assets/6359af7e-a835-4fd1-bf3b-ae0e9a475637" />
+
 # Prompt :
 A detailed pencil sketch art, showcasing the serene profile of Lord Krishna with closed eyes, adorned with traditional head jewelry. To the left, a long flute with a small bird perched on its end, alongside a beautifully textured peacock feather. The style is realistic yet soft, with fine line work and subtle shading on a white background
 
@@ -72,4 +76,4 @@ A detailed pencil sketch art, showcasing the serene profile of Lord Krishna with
 <img width="552" height="548" alt="image" src="https://github.com/user-attachments/assets/ac697316-a354-496f-89f1-797d69606493" />
 
 # Comparison:
-The AI-generated sketch is highly refined and hyper-detailed, with perfect symmetry, intricate jewelry, and smooth, professional shading. The Original Sketch has the softer, authentic charm of a freehand drawing, featuring simpler lines and a more ethereal, human-touched quality.
+The AI-generated sketch is highly refined and hyper-detailed, with perfect symmetry, intricate jewelry, and smooth, professional shading. The Original Sketch has the softer, authentic charm of a freehand drawing, featuring simpler lines and a more ethereal, human-touched quality. 
